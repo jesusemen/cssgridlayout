@@ -1,0 +1,7 @@
+#sidebar{
+    background:#84ffff;
+    grid-area:sidebar;
+    border-radius: var(--main-radius);
+    padding-top: var(--main-padding);
+}
+
